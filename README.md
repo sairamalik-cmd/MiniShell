@@ -21,6 +21,19 @@ and run programs; just like a real Linux shell!
 
 ✅ Handles Ctrl+D gracefully
 
+## Scope of Work
+
+**MiniShell** will include the following key features:
+
+- Displaying a shell prompt
+- Reading user commands
+- Parsing/tokenizing input
+- Running built-in commands
+- Executing external Linux programs
+- Looping until user exits
+- Error handling for invalid commands
+
+
 🎮 Example Usage
 
 $ ./MiniShellProject
