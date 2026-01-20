@@ -21,6 +21,8 @@ and run programs; just like a real Linux shell!
 
 ✅ Handles Ctrl+D gracefully
 
+🎮 Example Usage
+
 $ ./MiniShellProject
 ==================== MiniShell ====================
 Type 'exit' to quit the shell
@@ -34,8 +36,6 @@ Hello World
 MiniShell>test> ls
 file.txt  .  ..
 MiniShell>test> exit
-
-
 
 💡 Tip: The prompt shows your current directory so you always know where you are!
 
@@ -99,3 +99,4 @@ Handle environment variables
 👩‍💻 Author
 
 Saira Malik
+Maham Maryam
