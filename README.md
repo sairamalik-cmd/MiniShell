@@ -75,6 +75,7 @@ MiniShellProject/
 ├── utils.h/cpp     # Utility functions (e.g., prompt)
 
 ⚡ Compilation
+run:
 g++ main.cpp parser.cpp commands.cpp process.cpp utils.cpp -o MiniShellProject
 
 🎯 Learning Outcomes
@@ -87,7 +88,7 @@ Parse and handle CLI input
 
 Implement basic file and directory operations
 
-Build a mini Linux-like shell in C++
+Build a mini Linux-like CLI shell in C++
 
 🚧 Limitations
 
